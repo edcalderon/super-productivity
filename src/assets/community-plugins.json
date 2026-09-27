@@ -185,7 +185,7 @@
   },
   {
     "name": "Project Progress Rainbow",
-    "shortDescription": "Per-project progress bars with auto milestones, clickable detail pages (goals, sprints, times), rainbow gradient, theme-aware.",
+    "shortDescription": "Per-project progress bars with flow animation, auto milestones, detail pages (goals, sprints, times), rainbow gradient, theme-aware.",
     "url": "https://github.com/edcalderon/project-progress-rainbow",
     "author": "edcalderon",
     "authorUrl": "https://github.com/edcalderon",
