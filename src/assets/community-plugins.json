@@ -182,5 +182,13 @@
     "author": "BigWebstas",
     "authorUrl": "https://github.com/BigWebstas",
     "stars": 0
+  },
+  {
+    "name": "Project Progress Rainbow",
+    "shortDescription": "Per-project progress bars with auto milestones (epic/tag/[M:Name]), rainbow gradient, theme-aware.",
+    "url": "https://github.com/edcalderon/project-progress-rainbow",
+    "author": "edcalderon",
+    "authorUrl": "https://github.com/edcalderon",
+    "stars": 0
   }
 ]
